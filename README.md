@@ -1,4 +1,4 @@
-# Nobita-s-Biohazard-Lancher
+# Nobita-s-Biohazard-Launcher
 
 野比大雄的生化危机启动器
 
