@@ -153,6 +153,10 @@ LE=%DEFAULT_FOLDER%\Locale.Emulator.2.4.1.0\LEProc.exe
 
 （总之这个版本基本是对 2020 版豪华合集包的特化版）
 
+2021/9/16
+
+删除RTP插件，更换为重制版RTP链接
+
 PS
 ---------
 非DLL和EXE文件并不需要下载，请不要询问那是什么文件
